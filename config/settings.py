@@ -17,7 +17,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1',
     '192.168.1.220',
-    'eb-django-app-dev.elasticbeanstalk.com',
+    'OBK-User-Guide.eba-ynmncwgx.ap-northeast-2.elasticbeanstalk.com',
 ]
 
 
